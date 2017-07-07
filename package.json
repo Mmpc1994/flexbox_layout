@@ -1,0 +1,15 @@
+{
+  "name": "flexbox_layout",
+  "version": "1.0.2",
+  "description": "flexbox form angular-material",
+  "main": "_layout.scss",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "flexbox",
+    "css"
+  ],
+  "author": "mmmpc",
+  "license": "ISC"
+}
